@@ -20,7 +20,7 @@ npm install
 
 • Run it
 
-npm start
+npm run server
 
 
 

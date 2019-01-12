@@ -1,0 +1,20 @@
+{
+  "name": "login3",
+  "version": "1.0.0",
+  "description": "A simple login app developed for React and Express frameworks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./.server/server.js",
+    "server": "nodemon ./.server/server.js"
+  },
+  "author": "Eric Cartagena",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
