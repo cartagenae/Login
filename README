@@ -4,6 +4,8 @@ Login
 This is a simple NodeJS login form whose server is powered with ExpressJS
 and designed with ReactJS embedded within the index.html file along with bootstrap css.
 
+-------------------------------
+
 How to use:
 
 • Clone the repository
