@@ -1,0 +1,28 @@
+Login
+-----
+
+This is a simple NodeJS login form whose server is powered with ExpressJS
+and designed with ReactJS embedded within the index.html file.
+
+How to use:
+
+• Clone the repository
+
+git clone
+
+• Change directory to the repository
+
+cd login
+
+• Install dependencies
+
+npm install
+
+• Run it
+
+npm start
+
+
+
+Thanks for visiting,
+Eric Cartagena
