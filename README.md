@@ -29,6 +29,14 @@ npm run server
 
 -------------------------------
 
+Login Credentials:
+
+user: admin
+
+pass: password
+
+-------------------------------
+
 Thanks for visiting,
 
 Eric Cartagena
