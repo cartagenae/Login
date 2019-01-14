@@ -9,23 +9,16 @@ and designed with ReactJS embedded within the index.html file along with bootstr
 How to use:
 -----------
 • Clone the repository
-
-git clone https://github.com/cartagenae/Login
-
+###### `git clone https://github.com/cartagenae/Login`
 
 • Change directory to the repository
-
-cd Login
-
+###### `cd Login`
 
 • Install dependencies
-
-npm install
-
+###### `npm install`
 
 • Run it
-
-npm run server
+###### `npm run server`
 
 -------------------------------
 
