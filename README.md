@@ -11,7 +11,7 @@ How to use:
 • Clone the repository
 ###### `git clone https://github.com/cartagenae/Login`
 
-• Change directory to the repository
+• Navigate to your Login repository
 ###### `cd Login`
 
 • Install dependencies
