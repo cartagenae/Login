@@ -14,7 +14,7 @@ label {
 }
 
 .bottom {
-  position: absolute;
+  position: fixed;
   bottom: 0px;
 }
 
